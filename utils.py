@@ -1113,8 +1113,6 @@ class LMAgent:
         conversation_history = self.conv_memory.get_memory()
         if "gpt" in self.vlm:
             messages = create_messages(prompt, self.persona, conversation_history, image_list)
-        elif "claude" in self.vlm:
-            messages, system = claude_create_messages(prompt, self.persona, conversation_history, image_list)
         max_retries = 6
         retries = 0
         while retries < max_retries:
