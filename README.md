@@ -15,9 +15,9 @@ pip install -r requirements.txt
 
 ### Set up the camera and robot control
 
-Before running the demo code, please set up a depth camera and a robot, implement a camera and robot control code in `utils.py`, and then modify corresponding code in `main.py` at **lines 25-27, 626, 663**.
+Before running the demo code, please set up a depth camera and a robot, implement a camera and robot control code in `utils.py`, and then modify corresponding code in `main.py` at **lines 20-22, 626, 663**.
 
-If you would like to run the demo without a robot, please use local image and comment out relevant code. (**See lines 20-23**)
+If you would like to run the demo without a robot, please use local image and comment out relevant code. (**See lines 29-32**)
 
 Please set the following environment variable to use OpenAI API:
 ```
