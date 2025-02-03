@@ -1,7 +1,7 @@
 # Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs
 This is the official implementation for the paper "Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs" (TMLR 2025).
 
-[[paper]](https://wonderful-team-robotics.github.io/media/Wonderful_Team_paper.pdf) [[website]](https://wonderful-team-robotics.github.io/)
+[[arXiv]](https://arxiv.org/abs/2407.19094) [[OpenReview]](https://openreview.net/forum?id=udVkqIDYSM) [[website]](https://wonderful-team-robotics.github.io/)
 
 ## Installation
 ```
