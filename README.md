@@ -43,7 +43,7 @@ To get started with a simple demo assuming you have a depth camera setup and run
 ## Citation
 If you find Wonderful Team useful in your research or applications, please consider citing it by the following BibTeX entry.
 ```
-@misc{wang2024wonderfulteamzeroshotphysical,
+@misc{wang2024wonderfulteam,
       title={Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs}, 
       author={Zidan Wang and Rui Shen and Bradly Stadie},
       year={2024},
